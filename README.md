@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ilya (aka ryzzi00)
+# Hi there 👋, I'm Elijah (aka ryzzi00)
 
 💻 **Fullstack Developer** | 🎵 Musician | 🎨 Creative  
 
@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About me
 - 🔭 I’m currently working on:  
-  - a Telegram bot project (**Starry**, astrology bot)  
+  - a Telegram bot projects
   - a Minecraft server monitoring tool in Node.js  
 - 🌱 I’m currently learning: **Next.js**, **React**, and improving my **English**  
 - 👯 I’m looking to collaborate on: open-source projects in **Node.js** / **web development**  
