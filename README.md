@@ -14,24 +14,24 @@
 ---
 
 ## 🛠 Tech Stack
-![Node.js](https://img.shields.io/badge/-Node.js-333?logo=node.js&logoColor=339933)
-![Fastify](https://img.shields.io/badge/-Fastify-333?logo=fastify&logoColor=fff)
-![Prisma](https://img.shields.io/badge/-Prisma-333?logo=prisma&logoColor=2D3748)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?logo=typescript&logoColor=3178C6)
-![Java](https://img.shields.io/badge/-Java-333?logo=openjdk&logoColor=ffffff)
-![Tailwind](https://img.shields.io/badge/-Tailwind-333?logo=tailwindcss&logoColor=06B6D4)
-![Docker](https://img.shields.io/badge/-Docker-333?logo=docker&logoColor=2496ED)
-![Vite](https://img.shields.io/badge/-Vite-333?logo=vite&logoColor=646CFF)
-![React](https://img.shields.io/badge/-React-333?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-333?logo=node.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/-Fastify-333?logo=fastify&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-333?logo=prisma&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-333?logo=openjdk&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-333?logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-333?logo=docker&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-333?logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/-React-333?logo=react&logoColor=white)
 
 ---
 
 ## 🔗 My Contacts
 
-[![Website](https://img.shields.io/badge/-Website-333?logo=google-chrome&logoColor=fff)](https://elijahwilson.com)
-[![YouTube](https://img.shields.io/badge/-YouTube-333?logo=youtube&logoColor=FF0000)](https://www.youtube.com/@ElijahWilsong)
-[![X](https://img.shields.io/badge/-X-333?logo=x&logoColor=fff)](https://x.com/elijahwilsong)
-[![Telegram](https://img.shields.io/badge/-Telegram-333?logo=telegram&logoColor=26A5E4)](https://t.me/@ryzzi00)
+[![Website](https://img.shields.io/badge/-Website-333?logo=google-chrome&logoColor=white)](https://elijahwilson.com)
+[![YouTube](https://img.shields.io/badge/-YouTube-333?logo=youtube&logoColor=white)](https://www.youtube.com/@ElijahWilsong)
+[![X](https://img.shields.io/badge/-X-333?logo=x&logoColor=white)](https://x.com/elijahwilsong)
+[![Telegram](https://img.shields.io/badge/-Telegram-333?logo=telegram&logoColor=white)](https://t.me/@ryzzi00)
 
 ---
 
