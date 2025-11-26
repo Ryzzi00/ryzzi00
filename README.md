@@ -27,7 +27,6 @@
 ---
 
 ## 🔗 My Contacts
-(добавишь ссылки сам)
 
 [![Website](https://img.shields.io/badge/-Website-333?logo=google-chrome&logoColor=fff)](https://elijahwilson.com)
 [![YouTube](https://img.shields.io/badge/-YouTube-333?logo=youtube&logoColor=FF0000)](https://www.youtube.com/@ElijahWilsong)
