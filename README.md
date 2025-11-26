@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Elijah (aka ryzzi00)
 
-💻 **Fullstack Web Developer** • 🔧 **Minecraft Plugin Developer (Java)**  
+💻 **Fullstack Web Developer** ||🔧 **Minecraft Plugin Developer (Java)**  
 🎨 A balanced mix of clean engineering and creative projects  
 
 ---
