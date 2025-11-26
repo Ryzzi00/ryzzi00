@@ -1,34 +1,43 @@
 # Hi there 👋, I'm Elijah (aka ryzzi00)
 
-💻 **Fullstack Developer** | 🎵 Musician | 🎨 Creative  
+💻 **Fullstack Web Developer** • 🔧 **Minecraft Plugin Developer (Java)**  
+🎨 A balanced mix of clean engineering and creative projects  
 
 ---
 
-### 👨‍💻 About me
-- 🔭 I’m currently working on:  
-  - a Telegram bot projects
-  - a Minecraft server monitoring tool in Node.js  
-- 🌱 I’m currently learning: **Next.js**, **React**, and improving my **English**  
-- 👯 I’m looking to collaborate on: open-source projects in **Node.js** / **web development**  
-- 💬 Ask me about: backend, bots, or creative coding projects  
-- 📫 How to reach me: [Telegram](https://t.me/ryzzi00) | [Email](mailto:elijahwilsong00@gmail.com)  
-- ⚡ Fun fact: I combine coding with music, art, and streaming  
+## 👨‍💻 About Me
+- 🔭 Currently building: **ILLI** — an open-source minimalist link shortener  
+- 🌱 Learning: **English** (goal — become fluent)  
+- 💬 I work with backend, web apps, bots, creative tools and Minecraft plugins  
+- ⚡ Beyond coding: **Music, Voice Acting, Reading, Streaming, Blogging**
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 ![Node.js](https://img.shields.io/badge/-Node.js-333?logo=node.js&logoColor=339933)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript&logoColor=F7DF1E)
-![Next.js](https://img.shields.io/badge/-Next.js-333?logo=next.js&logoColor=fff)
+![Fastify](https://img.shields.io/badge/-Fastify-333?logo=fastify&logoColor=fff)
+![Prisma](https://img.shields.io/badge/-Prisma-333?logo=prisma&logoColor=2D3748)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/-Java-333?logo=openjdk&logoColor=ffffff)
+![Tailwind](https://img.shields.io/badge/-Tailwind-333?logo=tailwindcss&logoColor=06B6D4)
+![Docker](https://img.shields.io/badge/-Docker-333?logo=docker&logoColor=2496ED)
+![Vite](https://img.shields.io/badge/-Vite-333?logo=vite&logoColor=646CFF)
 ![React](https://img.shields.io/badge/-React-333?logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?logo=postgresql&logoColor=336791)
-![MySQL](https://img.shields.io/badge/-MySQL-333?logo=mysql&logoColor=4479A1)
-![PHP](https://img.shields.io/badge/-PHP-333?logo=php&logoColor=777BB4)
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryzzi00&show_icons=true&count_private=true&theme=radical)
+## 🔗 My Contacts
+(добавишь ссылки сам)
+
+[![Website](https://img.shields.io/badge/-Website-333?logo=google-chrome&logoColor=fff)](https://elijahwilson.com)
+[![YouTube](https://img.shields.io/badge/-YouTube-333?logo=youtube&logoColor=FF0000)](https://www.youtube.com/@ElijahWilsong)
+[![X](https://img.shields.io/badge/-X-333?logo=x&logoColor=fff)](https://x.com/elijahwilsong)
+[![Telegram](https://img.shields.io/badge/-Telegram-333?logo=telegram&logoColor=26A5E4)](https://t.me/@ryzzi00)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryzzi00&show_icons=true&count_private=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryzzi00&layout=compact&theme=radical)
 
 ---
